@@ -1,0 +1,7 @@
+Python 3.12.3
+Linux-6.17.0-1021-nvidia-aarch64-with-glibc2.39
+torch==2.11.0+cu130
+numpy==1.26.4
+nibabel==5.4.2
+scipy==1.17.1
+pandas==3.0.2
