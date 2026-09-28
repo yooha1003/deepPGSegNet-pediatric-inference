@@ -1,0 +1,32 @@
+[
+  {
+    "file": "pediatric_mean.pt",
+    "sha256": "f52a806d7ba326d84dde07c7168d1ed6964662115902ebaf21ce3e25b9f8d420",
+    "bytes": 65290045
+  },
+  {
+    "file": "pediatric_fold1.pt",
+    "sha256": "7fe0041f1e2dc5f556ca74805c40ea06cb88200ba390a41f2a2c7da374d6d650",
+    "bytes": 65290095
+  },
+  {
+    "file": "pediatric_fold2.pt",
+    "sha256": "e78e83f2dc8d530e586e04debe0bc73a320c013b4a9c8b99b8fee95c250f8e07",
+    "bytes": 65290095
+  },
+  {
+    "file": "pediatric_fold3.pt",
+    "sha256": "8393bcbd5f6e8b001f37423085e19121c698123e9210b64b7a54cf15167af9a8",
+    "bytes": 65290095
+  },
+  {
+    "file": "pediatric_fold4.pt",
+    "sha256": "479864a542b773e91a91b5cced19ba62a82d39baa54a1678de11d6851c3ea25a",
+    "bytes": 65290095
+  },
+  {
+    "file": "pediatric_fold5.pt",
+    "sha256": "5b9766338d953aabfc7c8a22cc086a83ccbbadf4e52153aada1a9d7f56bac935",
+    "bytes": 65290095
+  }
+]
