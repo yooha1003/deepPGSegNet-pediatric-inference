@@ -1,0 +1,49 @@
+{
+  "title": "Pediatric deepPGSegNet inference package: transfer-learned pituitary gland segmentation for 6-year-old children",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "description": "<p>Inference and evaluation package accompanying the manuscript <i>Transfer learning enables automated pituitary gland segmentation on brain MRI in 6-year-old children</i>.</p><p>The package contains the four-level 3D U-Net model definition, trained pediatric weights (a parameter-averaged checkpoint and five fold checkpoints), NIfTI preprocessing and inference code, participant-level evaluation utilities, environment specifications, and SHA-256 checksums.</p><p>The model was developed on a single-institution cohort of approximately 6-year-old children using 1-mm isotropic 3.0-T T1-weighted MRI and has not been validated across institutions, scanners or age groups. Original training MRI, annotation masks and clinical records are not included.</p>",
+  "creators": [
+    {
+      "name": "Choi, Uk-Su",
+      "affiliation": "Medical Device Development Center, Daegu-Gyeongbuk Medical Innovation Foundation, Daegu, South Korea"
+    },
+    {
+      "name": "Cho, Hye Jung",
+      "affiliation": "Division of Neonatology, Department of Pediatrics, Gil Medical Center, Gachon University College of Medicine, Incheon, South Korea"
+    },
+    {
+      "name": "Sung, Yul-Wan",
+      "affiliation": "Kansei Fukushi Research Institute, Tohoku Fukushi University, Sendai, Japan"
+    },
+    {
+      "name": "Fukunaga, Masaki",
+      "affiliation": "Section of Brain Function Information, National Institute for Physiological Sciences, Okazaki, Japan"
+    },
+    {
+      "name": "Shim, So-Yeon",
+      "affiliation": "Division of Neonatology, Department of Pediatrics, School of Medicine, Ewha Womans University, Seoul, South Korea"
+    },
+    {
+      "name": "Jeong, Hyejin",
+      "affiliation": "Neuroscience Convergence Center, Institute of Green Manufacturing Technology, Korea University, Seoul, South Korea"
+    }
+  ],
+  "keywords": [
+    "pituitary gland",
+    "segmentation",
+    "transfer learning",
+    "pediatric MRI",
+    "deep learning",
+    "3D U-Net"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.3389/fendo.2024.1338743",
+      "relation": "references",
+      "scheme": "doi",
+      "resource_type": "publication-article"
+    }
+  ],
+  "access_right": "open"
+}
